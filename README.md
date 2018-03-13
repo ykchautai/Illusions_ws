@@ -30,7 +30,7 @@ Complete la tabla:
 |         |           |            |                                    |                             |
 |         |           |            |                                    |                             |
 
-2. Describa brevememente las referencias estudiadas y los posibles temas en los que le gustaría profundizar
+2. Describa brevememente las referencias estudiadas y los posibles temas en los que le gustaría profundizar:
 
 ## Entrega
 
