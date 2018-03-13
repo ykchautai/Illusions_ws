@@ -34,5 +34,5 @@ Complete la tabla:
 
 ## Entrega
 
-* Modo de entrega: [Fork me](https://help.github.com/articles/fork-a-repo/) en todas las cuentas de github de los integrantes.
+* Modo de entrega: [Fork](https://help.github.com/articles/fork-a-repo/) la plantilla en las cuentas de los integrantes (de las que se tomará una al azar).
 * Plazo: 18/3/18 a las 24h.
