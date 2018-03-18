@@ -30,6 +30,8 @@ Complete la tabla:
 | Barra azul | Interacción | https://goo.gl/bB63EC           |  Mirar punto negro y ver de qué color es la barra sobre el color naranja                                  |                             |
 | Illusory square | Movimiento          | Presentación clase           |                                    |                             |
 
+Nota: las ilusiones se encuentran en un sólo archivo .pde el cual activa cada ilusión con la tecla de espacio y muestra la aclaración de cada figura con la tecla 'a'.
+
 2. Describa brevememente las referencias estudiadas y los posibles temas en los que le gustaría profundizar:
 
 En las ilusiones presentadas se muestran efectos de movimiento en los que el cerebro asocia las coordenadas con las figuras que reconoce, como por ejemplo el cuadro formado por los puntos en movimiento en el Illusory Square. Por contrastes de color se hallan efectos en las ilusión de barra azul, ya que al contrastar con el fondo naranja y estar en movimiento da la impresión de ser azul y no gris como se muestra originalmente. El efecto de luz como flash en la bicicleta hace que el ojo no perciba por uno o dos segundos el color de las ruedas de la bicicleta.
